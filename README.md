@@ -1,29 +1,17 @@
-##Fallout 13 Alpha 0.3
+##Fallout 13 Alpha 0.4
 
-**Website:** http://wasteland.expert <BR>
-**Devblog:** https://www.reddit.com/r/Fallout13 <BR>
-**Code:** https://github.com/BartNixon/Fallout13 <BR>
-
-##Attention!
-Thanks to the laborious efforts of Byond maintenance team, and drastic changes while working on creation of Byond version 510, the build became incompatible with 510, due to several changes in scripts and other things we can't manage to edit. <BR>
-**How to make it work then?!** <BR>
-Just use one of the older Byond versions, you will be able to host the game on Byond 509 or less, while players will be able to join from any other higher version of Byond. <BR>
-We suggest you to use the version 508.1299, as it's the version with best compatibility with the build source code. <BR>
-You can get any of previous editions of Byond engine at [official Byond versions archive](http://www.byond.com/download/build/). <BR>
-Also you can [get Byond 508.1299](http://www.byond.com/download/build/508/) for the best gaming experience. <BR>
+**Devblog:** https://forum.ss13.ru/index.php?showtopic=15035 <BR>
+**Code:** https://github.com/PahomLancer/Vault-113-Restoration. <BR>
 
 ##Credits
-_To find out the great deeds of the following people, read the full [Fallout 13 changelog](https://github.com/BartNixon/Fallout13/blob/master/F13-CHANGELOG.txt)._ <BR>
-
-**Code:** KorPhaeron, RemieRichards, WB, AnturK, BartNixon, A3lex33, Gyaviste, Hold_Me_Please. <BR>
-
-**Graphics / Sprites / Icons:** Ivan_mrr, Nienhaus, WalterJe, MrSnapwalk, BartNixon, Llego_man007, Uboaaaaaa, BlackJack22, The_Harvester, Lydee, Murmillo, DoctorWho08, Alexlox.
+**Code:** Pahomlancer, alexix1989, antonikon, KorPhaeron, RemieRichards, WB, AnturK, BartNixon, A3lex33, Gyaviste, Hold_Me_Please. <BR>
+**Graphics / Sprites / Icons:** Pahomlancer, DeadSpreeng, Ivan_mrr, Nienhaus, WalterJe, MrSnapwalk, BartNixon, Llego_man007, Uboaaaaaa, BlackJack22, The_Harvester, Lydee, Murmillo, DoctorWho08, Alexlox.
 
 **Origins:** <BR>
 Currently the build contains code, graphics, sounds and specific build features of several Space Station 13 communities listed below. <BR>
 Fallout 13 would not exist without the efforts of creative people who did their best to make a game of spessmen more fun. <BR>
 _Praise our Overlords!_ <BR>
-**_/tg/ Station 13, Goon Station 13, Baystation 12, Animus Station, Tau Ceti Station, Soviet Station, Urist McStation, Atlas Station_** <BR>
+**Animus Station, _/tg/ Station 13, Goon Station 13, Baystation 12, Tau Ceti Station, Soviet Station, Urist McStation, Atlas Station_** <BR>
 And all the others who made our dreams come true.
 
 ##Soundtrack

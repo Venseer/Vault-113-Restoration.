@@ -84,7 +84,7 @@
 /obj/structure/flora/grass/wasteland/New()
 	..()
 	icon = 'icons/obj/flora/wasteland.dmi'
-	icon_state = "tall_grass_[rand(1, 4)]"
+	icon_state = "tall_grass_[rand(1, 16)]"
 
 //glowshroom
 /obj/structure/flora/mushroom/New()
@@ -93,6 +93,15 @@
 	desc = "These light giving mushrooms were once a very rare type of fungus that fed on radioactive materials and radiation.<br>The luminescent glow is a by-product of the radiation they feed on.<br>They commonly grow in the dark areas."
 	icon = 'icons/obj/flora/wasteland.dmi'
 	icon_state = "mushroom_[rand(1, 4)]"
+
+//glowshroom
+/obj/structure/flora/cactus/New()
+	..()
+	anchored = 1
+	density = 1
+	name = "cactus"
+	icon = 'icons/obj/flora/wasteland.dmi'
+	icon_state = "cactus_[rand(1, 4)]"
 
 //bushes
 /obj/structure/flora/bush
